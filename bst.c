@@ -8,6 +8,7 @@
 *
 * Author: Kevin Browne
 *
+* Lab work
 *******************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
